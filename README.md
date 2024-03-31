@@ -1,7 +1,4 @@
--  Hi, I’m Rishabh Singh
--  I’m a weeds person interested in computational biology 
--  I’m looking to collaborate on transcriptome analysis 
--  How to reach me at rishabhsingh1@ksu.edu
+ -  How to reach me at rishabhsingh1@ksu.edu
 -  Pronouns: he/him/his
 -  Fun fact: Earthquakes don't kill people, buildings do!
 

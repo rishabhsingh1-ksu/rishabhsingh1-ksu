@@ -1,1 +1,1 @@
- -  How to reach me at rishabhsingh1@ksu.edu
+ - Reach out to me at  rishabhsingh1@ksu.edu
